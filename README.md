@@ -2,7 +2,11 @@
 
 - 💻 Informatics and Computing Enginnering student @FEUP  
 - 🔭 I’m currently working on some projects for college, but hopefully I can work on some personal projects soon  
-- 🌱 I’m currently learning C++ and a bit of Assembly  
+- 🌱 I’m currently learning C++ and a bit of Assembly\
+\
+\
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedronunes19&theme=dark&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedronunes19&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
