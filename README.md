@@ -1,4 +1,4 @@
-## Hi there 👋  
+### Hi there 👋  
 
 - 💻 Informatics and Computing Enginnering student @FEUP  
 - 🔭 I’m currently working on some projects for college, but hopefully I can work on some personal projects soon  
