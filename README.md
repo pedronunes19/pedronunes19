@@ -1,8 +1,6 @@
 ### Hi there 👋  
 
 - 💻 Informatics and Computing Enginnering student @FEUP  
-- 🔭 I’m currently not working 
-- 🌱 I’m currently learning C++ and a bit of Assembly\
 \
 \
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedronunes19&theme=dark&show_icons=true&count_private=true)
