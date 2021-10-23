@@ -3,7 +3,7 @@
 - 💻 Informatics and Computing Enginnering student @FEUP  
 &nbsp;  
 <p float="left">
-<img src="https://github-readme-stats.vercel.app/api?username=pedronunes19&theme=dark&show_icons=true&count_private=true" align = "left" width="480"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pedronunes19&theme=dark&show_icons=true&count_private=true" align = "left" width="470"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronunes19&theme=dark&layout=compact" width="330" height="190"/>
 </p>
 <!--
