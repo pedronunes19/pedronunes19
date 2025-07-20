@@ -1,6 +1,6 @@
 ### Hey 👋  
 
-- 💻 Informatics and Computing Engineering student @FEUP  
+- 💻 Master in Informatics and Computing Engineering from FEUP  
 &nbsp;  
 
 
