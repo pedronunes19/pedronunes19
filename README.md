@@ -1,5 +1,5 @@
 ### Hey 👋 
-&nbsp;
+
 - 💻 Master in Informatics and Computing Engineering from FEUP (and a bit of UTWENTE)  
 - 💼 Currently a System Engineer at Celfocus
 - 🧑‍🎓 A lot of repositories here from my uni days
